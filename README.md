@@ -1,4 +1,5 @@
 # Brandify
+[![Code Climate](https://codeclimate.com/github/iandonovan/brandify/badges/gpa.svg)](https://codeclimate.com/github/iandonovan/brandify)
 
 ### Be the Brand
 
